@@ -8,7 +8,7 @@
 	- [开发应用 | Android Developers](https://developer.android.google.cn/develop/index.html)
 	- [应用基础知识 | Android Developers](https://developer.android.google.cn/guide/components/fundamentals.html)
 
-## Weekly Test 1 (`Done`) ##
+## [Weekly Test 1 (`Done`)](https://github.com/TransHysn/WeeklyTest/tree/master/WeeklyTest1) ##
 #### 创建第一个Android工程并同步GitHub ####
 - 注册GitHub账号，安装Git工具
 	- 课程官方GitHub：[fjnu-cse](https://github.com/fjnu-cse)
